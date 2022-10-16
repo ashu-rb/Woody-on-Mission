@@ -1,0 +1,31 @@
+#navbarLogo {
+  font-family: "Sofia", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  background-color: rgb(150, 118, 107);
+  padding: 8px;
+  border-radius: 5px;
+}
+
+#headBtn {
+  margin: 10px;
+  color: light chocolate;
+  font-family: "Sofia", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  align-self: right;
+}
+
+a:link {
+  margin: 10px;
+  color: light chocolate;
+  font-family: "Sofia", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  align-self: right;
+}

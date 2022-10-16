@@ -1,0 +1,93 @@
+.bg-img {
+  margin-bottom: 280px;
+  width: 1500px;
+  height: 1000px;
+}
+.col-margin {
+  background-image: url("../../images/AttnBountPoster.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 580px;
+  margin-bottom: 220px !important;
+  margin-top: 290px!important;
+  background-color: transparent!important; 
+  color: black;
+  cursor: pointer;
+  min-width: 100%!important;
+  border: transparent!important;
+  border-radius: 5px!important;
+}
+.card-margin {
+min-width: 1000px!important;
+}
+.carousel-item {
+  /* margin-left: 40px; */
+}
+.carousel-inner {
+  margin-top: 10px!important;
+  margin-left: 90px!important;
+}
+.saloon-card {
+  margin-bottom: 120px;
+}
+.deputy-card {
+animation: rotateIn 3s;
+
+animation: rotateIn 3s;
+}
+.sheriff-card {
+  animation: rotateIn 2s, 3s  ;
+}
+.space-between-jumbotron {
+  width: 180px!important;
+}
+.card-title {
+  margin: 0px!important;
+  font-family: "Smokum", cursive;
+  text-shadow: #ffffff 0px 0px 5px;
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+  margin-top: 75px!important;
+}
+.board-link {
+  font-family: "Smokum", cursive;
+  font-size: 35px;
+  text-shadow: #ffffff 0px 0px 20px;
+  text-align: center;
+  animation: hinge; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  animation-delay: 4s;
+}
+/* .carousel .carousel-indicators li */
+.indicators {
+  background-color: #fff;
+  background-color: rgba(70, 70, 70, 0.25);
+  margin-bottom: 5px;
+}
+.sheriff-indicator {
+  margin-top: 15px!important;
+  
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #444;
+}
+/* .carousel-control-prev-icon,
+.carousel-control-next-icon {
+ margin-top: 80px;
+} */
+/* 
+.carousel-control-prev-icon:after {
+    margin-bottom: 30px;
+    content: '<';
+    font-size: 35px;
+    color: #000000;
+}
+.carousel-control-next-icon:after {
+  content: '>';
+  font-size: 35px;
+  color: #000000;
+}
+ */

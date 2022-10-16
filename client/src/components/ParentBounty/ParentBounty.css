@@ -1,0 +1,39 @@
+#formTitle,
+#formBox {
+  background-color: rgba(19, 10, 10, 0.697);
+  color: white;
+}
+#addTask {
+  margin: 5px;
+  align-content: center;
+}
+
+#formTitle {
+  font-size: 25px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.delete-task {
+  color: red;
+  margin-left: 5px;
+  border-color: rgb(78, 60, 27);
+  border-width: 1px;
+  border-radius: 5px;
+  background-color: rgb(204, 32, 32);
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.check-btn {
+  background-color: rgb(41, 108, 7);
+  border-color: rgb(78, 60, 27);
+  border-radius: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-right: 5px;
+}
