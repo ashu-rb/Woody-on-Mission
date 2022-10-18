@@ -1,5 +1,5 @@
 # Woody-on-Mission
-A game for children where they will be rewarded points for assigned tasks using NFT.
+A game for children where they will be rewarded points for assigned tasks using NFT blockchain,consisting of 3 levels of 20,40,60 points respectively.
 
 ## Inspiration
 We all have experienced boring chores given by our parents. Very often children forget to complete their daily work, so to remind them to finish their daily missions on time we wanted to gamify that experience. What better than NFTs and a Social Media Post that makes your Mr/Ms Popular among your friends
